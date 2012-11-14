@@ -1,0 +1,1 @@
+F:/Documents and Settings/Admin/Local Settings/Application Data/Sprouts/1.1/cache/flex4/4.6.0.23201/bin/mxmlc -debug -output=bin\FarmProject-debug.swf -static-link-runtime-shared-libraries=true src\FarmProject.as
